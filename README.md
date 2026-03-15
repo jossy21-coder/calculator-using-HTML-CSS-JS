@@ -41,7 +41,11 @@ git clone https://github.com/your-username/calculator-using-html-css-js.git
 
 ## 📸 Preview
 
-![Calculator Preview](preview.png)
+![Desktop View](https://github.com/jossy21-coder/calculator-using-HTML-CSS-JS/blob/main/Screenshot%202026-03-15%20150816.png)
+
+![Desktop View](https://github.com/jossy21-coder/calculator-using-HTML-CSS-JS/blob/main/Screenshot%202026-03-15%20151107.png)
+
+![Desktop View](https://github.com/jossy21-coder/calculator-using-HTML-CSS-JS/blob/main/Screenshot%202026-03-15%20151138.png)
 
 ## 📚 Learning Purpose
 
