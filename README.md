@@ -32,7 +32,7 @@ calculator-project
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/calculator-using-html-css-js.git
+git clone https://github.com/jossy21-coder/calculator-using-html-css-js.git
 ```
 
 2. Open the project folder
